@@ -1,1 +1,7 @@
+Circuit: m2-simulide project.simu
 
+Bill of Materials:
+
+Hd44780-169 : Hd44780   
+KeyPad-35 : KeyPad   
+atmega328-168 : atmega328   
